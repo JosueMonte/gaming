@@ -70,5 +70,13 @@ https://1drv.ms/u/s!AluEGz41YFydmL4-87I5Pghlx-5Ivg?e=tQ52BH
 ## KPIs del dashboard
 
 - `Ventas de consolas`: Se plantea el objetivo para el próximo año de aumentar un 10 %. 
-- `Tiempo medio de juego`: Se plantea el objetivo para el próximo año de aumentar un 10 % el precio de los videojuegos.
-- `Ventas por género`: Se plantea un objetivo para el próximo año de aumentar un 10 % las ventas por género.
+- `Tiempo medio de juego`: Se plantea el objetivo para el próximo año de aumentar un 15 %.
+- `Ventas global`: Se plantea un objetivo para el próximo año de aumentar un 15 % las ventas por género.
+
+## Conclusiones
+1. El pais más recomendable para invertir es Estados Unidos viéndolo hoy, y segundo, el resto del mundo. Pero resto del mundo está muy afectado por China e India, por lo cual. Sería interesante una mejor distinción. 
+2. Existe un decaimiento en las ventas a partir del 2008, tanto de consolas como de juegos en steam.
+3. Se observa la siguiente correlación: a medida que aumenta el tiempo promedio, es más probable que el precio del juego sea más alto.
+4. Existe otra correlación que el Rating positivo aumenta conjuntamente con el Rating negativo.
+5. Los géneros más grandes son Action y Shooter, pero Shooter tiene más eficiencia en cuanto a Sales respecto a cantidad. Sports queda en ventas tercero y en cantidad también tercero.
+
