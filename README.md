@@ -41,6 +41,9 @@ Los insights provenientes del análisis exploratorio de los datos se vuelcan a d
 Se adjunta el link en Onedrive:
 https://1drv.ms/u/s!AluEGz41YFydmL4-87I5Pghlx-5Ivg?e=tQ52BH
 
+Además, el archivo exportado en formato PDF está disponible aquí:
+[Dashboard.pdf](Dashboard.pdf)
+
 ## Instalación
 
 1. Clona este repositorio:
